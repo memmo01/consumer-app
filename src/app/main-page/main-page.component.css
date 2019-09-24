@@ -1,0 +1,19 @@
+.main-image{
+ height:400px;
+ overflow:hidden;   
+}
+.main-image>img{
+    min-width:100%;
+}
+#title{
+    text-align:center;
+    padding:50px 0;
+}
+
+#title h2{
+    padding-bottom:20px;
+}
+#title >p{
+    width:60%;
+    margin:auto;
+}
