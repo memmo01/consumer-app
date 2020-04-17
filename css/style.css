@@ -1,0 +1,15 @@
+.h1 > li {
+  margin: 0;
+}
+.master {
+  margin: 20px;
+}
+.gigady {
+  background-color: white;
+}
+.more {
+  max-resolution: 0;
+}
+.gitpush-notmaster {
+  color: black;
+}
